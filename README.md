@@ -7,21 +7,24 @@
     </div>
     <h3>Hello world 👋</h3>
     <code>I am devkey</code>
-    <br />
-    <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="100" />
+    <br /> 
+    <br /> 
+    <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200" />
 </div>
 
-### 👨‍💻 About me
+<div>
+    <h2>👨‍💻 About me</h2>
+    <p>I am a developer, designer and a music producer, always trying to step up my game</p>
+    <ul>
+        <li>💻 I'm working as a Full Stack developer for web and mobile apps</li>
+        <li>👾 In my free time, I'm actively learning Rust and Bevy, and getting more into Gamedev</li>
+        <li>📦 Making 3D models and exploring WebGPU & ThreeJS</li>
+        <li>🎵 Sometimes doing some sound design and music production on a good day</li>
+    </ul>
+</div>
 
-I am a developer, designer and a music producer, always trying to step up my game
-
-- 💻 I'm working as a Full Stack developer for web and mobile apps
-- 👾 In my free time, I'm actively learning Rust and Bevy, and getting more into Gamedev
-- 📦 Making 3D models and exploring WebGPU & ThreeJS
-- 🎵 Sometimes doing some sound design and music production on a good day
-
-### :hammer_and_wrench: Here's the stuff I know summarized in icons
 <div id="icons">
+    <h2>:hammer_and_wrench: Here's the stuff I know summarized in icons</h2>
     <h4>Coding</h4>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" width="40" height="40" alt="HTML"/>&nbsp; 
@@ -56,18 +59,13 @@ I am a developer, designer and a music producer, always trying to step up my gam
     </div>
 </div>
 
-<hr/>
 
-### My Github stats 📈
 <div id="stats">
-     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Devkeystuff&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Activity" width="400"          />
+    <h2>My Github stats 📈</h2>
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Devkeystuff&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Activity" height="200"          />
     </a>
-    <br />
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkeystuff&layout=compact&theme=dark&hide_border=true" alt="Languages" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkeystuff&layout=compact&theme=dark&hide_border=true" alt="Languages" height="200" />
     </a>
-</div>
-
-<div>
 </div>
