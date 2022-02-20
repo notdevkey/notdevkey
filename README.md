@@ -46,6 +46,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" width="40" height="40" alt="Docker"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40" alt="Nginx"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" width="40" height="40" alt=".NET Core"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Digital Ocean" width="40" height="40" alt="Digital Ocean"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" alt="Git"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="40" height="40" alt="Rust"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" width="40" height="40" alt="ThreeJS"/>&nbsp; 
     </div>
