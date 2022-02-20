@@ -14,7 +14,7 @@
 
 <div>
     <h2>👨‍💻 About me</h2>
-    <p>I am a developer, designer and a music producer, always trying to step up my game</p>
+    <p>I am a developer, designer and kinda music producer, always trying to step up my game</p>
     <ul>
         <li>💻 I'm working as a Full Stack developer for web and mobile apps</li>
         <li>👾 In my free time, I'm actively learning Rust and Bevy, and getting more into Gamedev</li>
