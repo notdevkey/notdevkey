@@ -9,7 +9,7 @@
     <code>I am devkey</code>
     <br /> 
     <br /> 
-    <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200" />
+<!--     <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200" /> -->
 </div>
 
 <div>
