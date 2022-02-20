@@ -51,7 +51,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="40" height="40" alt="Rust"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" width="40" height="40" alt="ThreeJS"/>&nbsp; 
     </div>
-    <h4>Design</h4>
+    <h4>Design & editing</h4>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40" alt="Figma"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="40" height="40" alt="Illustrator"/>&nbsp; 
