@@ -40,7 +40,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40" alt="Redux"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" width="40" height="40" alt="Angular"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" alt="Flutter"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" width="40" height="40" alt="Django"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40" alt="Django"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" width="40" height="40" alt="MySQL"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" width="40" height="40" alt="Docker"/>&nbsp; 
