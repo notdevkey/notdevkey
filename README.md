@@ -47,7 +47,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40" alt="Nginx"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" width="40" height="40" alt=".NET Core"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Digital Ocean" width="40" height="40" alt="Digital Ocean"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" width="40" height="40" alt="Material UI"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="40" height="40" alt="Dart"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40" alt="Java"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" alt="Git"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" width="40" height="40" alt="OpenCV"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" width="40" height="40" alt="NextJS"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="40" height="40" alt="Rust"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" width="40" height="40" alt="ThreeJS"/>&nbsp; 
     </div>
@@ -58,6 +63,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="40" height="40" alt="Photoshop"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Premiere Pro" width="40" height="40" alt="Premiere Pro"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="After Effects" width="40" height="40" alt="After Effects"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" width="40" height="40" alt="Blender"/>&nbsp; 
     </div>
 </div>
 
