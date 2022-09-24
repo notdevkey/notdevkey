@@ -74,6 +74,6 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Devkeystuff&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Activity" height="200"          />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkeystuff&layout=compact&theme=dark&hide_border=true" alt="Languages" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Devkeystuff&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Profile stats" height="200"          />
     </a>
 </div>
