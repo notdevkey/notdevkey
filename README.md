@@ -76,4 +76,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=notdevkey&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Profile stats" height="200"          />
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdevkey&layout=compact&theme=dark&hide_border=true" alt="Profile stats" height="200" />
+    </a>
 </div>
